@@ -19,7 +19,6 @@ X-rays are cost-effective and widely accessible, making them a prime choice for 
   - **Accuracy**: 95%
   - **F1 Score**: 95.95
   - **AUC**: 90.95
-  - **Confusion Matrix and ROC Curve**: Refer to Figures in the document.
 
 ### 🌐 **Resnet50 with Random Forest Classifier**:
 
