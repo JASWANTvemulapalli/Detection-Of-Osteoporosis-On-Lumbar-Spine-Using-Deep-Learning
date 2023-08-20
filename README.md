@@ -36,6 +36,11 @@ X-rays are cost-effective and widely accessible, making them a prime choice for 
 
 The dataset contains different sizes of images, which were resized to 224x224, ideal for deep learning models. Data augmentation techniques were applied to enhance the diversity of the training data and prevent overfitting.
 
+
+## 🏆 **Conference Presentation**
+
+Presented the Findings as a Research paper at AICECS 2023 conference [here](https://drive.google.com/file/d/1duk6mXVbmkrx6rHZZVA22FMhgH96r3H8/view?usp=sharing).
+
 ## 📚 **Literature Insights**
 
 - **MRI of Spine**: MRI is a non-ionizing technique that provides volumetric analysis of the trabecular bone. However, it's time-consuming and susceptible to motion distortions, making it less preferred.
